@@ -1,0 +1,2 @@
+echo "Hello"
+echo "I am in Devops training"
